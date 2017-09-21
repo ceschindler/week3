@@ -1,0 +1,17 @@
+<taglib>
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <short-name>Tag lib Activity One</short-name>
+    <uri>http://matc.edu/tags</uri>
+    <tag>
+        <name>Hello</name>
+        <tag-class>edu.matc.taglib.HelloWorldTag</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+
+    <tag>
+        <name>Sports</name>
+        <tag-class>edu.matc.taglib.CalendarThing</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+</taglib>
